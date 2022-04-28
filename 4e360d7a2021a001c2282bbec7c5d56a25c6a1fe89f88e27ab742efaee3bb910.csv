@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Eliminar reserva","Cancelacion de reserva exitosa","SUCCESS","2022-04-28T11:25:39.9210544-05:00[America/Bogota]","0.0","33.01"
+"Eliminar reserva","Cancelacion de reserva inexistente","SUCCESS","2022-04-28T11:26:13.1876814-05:00[America/Bogota]","0.0","1.64"

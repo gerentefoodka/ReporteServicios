@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Correo para administrador","Correo de creacion de pedido enviado al administrador exitosamente","SUCCESS","2022-04-28T11:25:41.5692246-05:00[America/Bogota]","0.0","1.63"
+"Correo para cliente","Correo de creacion de pedido enviado a cliente exitosamente","SUCCESS","2022-04-28T11:25:41.4271245-05:00[America/Bogota]","0.0","1.83"
+"Eliminar reserva","Cancelacion de reserva inexistente","SUCCESS","2022-04-28T11:26:13.1876814-05:00[America/Bogota]","0.0","1.64"
+"Modificar informacion de reservas","Actualizar datos de reserva exitosamente","SUCCESS","2022-04-28T11:26:26.9385681-05:00[America/Bogota]","0.0","8.39"
+"Obtener reservas","Consulta de reserva exitosa","SUCCESS","2022-04-28T11:26:18.6685747-05:00[America/Bogota]","0.0","3.18"

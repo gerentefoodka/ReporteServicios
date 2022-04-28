@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Correo para cliente","Correo de creacion de pedido enviado a cliente exitosamente","SUCCESS","2022-04-28T11:25:41.4271245-05:00[America/Bogota]","0.0","1.83"
+"Correo para cliente","Correo de modificacion de pedido a cliente enviado exitosamente","SUCCESS","2022-04-28T11:25:43.3554942-05:00[America/Bogota]","0.0","0.12"
+"Correo para cliente","Correo de cancelacion de pedido a cliente enviado exitosamente","SUCCESS","2022-04-28T11:25:43.6186803-05:00[America/Bogota]","0.0","0.15"
